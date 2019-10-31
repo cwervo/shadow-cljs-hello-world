@@ -1,0 +1,14 @@
+{
+  "name": "test-shadow-cljs",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "bsqr": "^1.0.1",
+    "foreman": "^3.0.1",
+    "shadow-cljs": "^2.8.68"
+  },
+  "scripts": {
+    "serve": "nf start"
+  },
+  "dependencies": {}
+}
